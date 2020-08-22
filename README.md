@@ -1,5 +1,6 @@
 # NAMASTEY WORLD 🙏
 <img src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif">
+<br>
 ## This is Mainak Chaudhuri, a crazy Github Repositor 😂😍💖💻❣🖥
 
 ### Who am I ?
