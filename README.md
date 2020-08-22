@@ -1,10 +1,10 @@
 # NAMASTEY WORLD 🙏
-<img src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif">
+<center><img src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></center>
 
-<h2> This is Mainak Chaudhuri, a crazy Github Repositor 😂😍💖💻❣🖥</h2>
+<h2> This is Mainak Chaudhuri, a passionate Github Repositor 😍💖💻❣🖥</h2>
 
 ### Who am I ?
-<img src="https://i.pinimg.com/originals/01/89/64/018964e654f7ae5f1397d1a08af8de42.gif">
+
 Well, I am a Computer Science Engineering undergraduate who just landed into the second year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. Personally, I am very introvert but socially I am hyper-active. I love codes and cats. I am much passionate to learn more of Data Science and Machine Learning, so that I could implement them to analyse the huge data which the world produces.
 <br>
 
