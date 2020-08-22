@@ -1,7 +1,7 @@
 # NAMASTEY WORLD 🙏
 <img src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif">
-<br>
-## This is Mainak Chaudhuri, a crazy Github Repositor 😂😍💖💻❣🖥
+
+<h2> This is Mainak Chaudhuri, a crazy Github Repositor 😂😍💖💻❣🖥</h2>
 
 ### Who am I ?
 <img src="https://i.pinimg.com/originals/01/89/64/018964e654f7ae5f1397d1a08af8de42.gif">
