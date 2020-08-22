@@ -21,6 +21,5 @@ Well, I am a Computer Science Engineering undergraduate who just landed into the
   </ol>
     
 ### Programming Languages known:
-![Test Image 3](/3DTest.png)
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 112)
+
   
