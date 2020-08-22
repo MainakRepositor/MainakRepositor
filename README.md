@@ -1,8 +1,8 @@
 # NAMASTEY WORLD 🙏
 <center><img src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></center>
 
-### Who am I ?
-<h2> Hi,I am Mainak Chaudhuri, a passionate Github Repositor 😍💖💻❣🖥</h2>
+## Who am I ?
+<h3> Hi,I am Mainak Chaudhuri, a passionate Github Repositor 😍💖💻❣🖥</h3>
 
 
 
