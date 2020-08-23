@@ -10,6 +10,16 @@
 I am a Computer Science Engineering undergraduate of the SRM University, Chennai who just landed into the second year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. Personally, I am very introvert but in technical domain I am hyper-active. I love codes and cats. I am much passionate to learn more of Data Science and Machine Learning, so that I could implement them to analyse the huge data which the world produces.
 <br>
 
+### What I do in Github ?
+<h4> LOL. I contribute to open source. Okay... </h4>
+<ul>
+ <li>🔭 I’m currently working on something cool and exciting 😉</li>
+ <li>🌱 I’m currently learning Deep Learning, Functional Programming and Flutter Development</li>
+ <li>💬 Ask me about anything related to Python, Linux, Data Analytics or Machine Learning</li>
+ <li>📫 How to reach me: mainakc24365@gmail.com</li>
+ <li>⚡ Fun fact: I ❤️ 🐈s,🎼🎵,💻 </li>
+</ul>
+ 
 ### My Skills:
 <span><img height="300" width="400" src="https://lh3.googleusercontent.com/proxy/w03M-2k3dQ9kFrapQmCrieFqJkv1HxTOb2A60Z3GdSlUgp0R-ulNy2D_TiEHCerlBx_7QPEeucGycLh49zaOuP4FlYJe"/>    <img height="300" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span>
 <ol>
@@ -23,7 +33,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
   <li>Ethical Hacker☠️</li>
   <li>HackerRank Coding Practioner : 5✨ in Python coding; 5✨ in 30 Days of Code challenge; 2✨ in SQL; 2✨ in Statistics 💻🖥💻</li>
   <li>Streamlit Webapps developer📱</li>
-  <li>Music lover🎼🎵</li>
+  
   </ol>
     
 ### Programming Languages known:
