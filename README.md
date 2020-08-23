@@ -43,3 +43,18 @@ I am a Computer Science Engineering undergraduate who just landed into the secon
  </scan>
 
 ### Technologies I work on :
+<scan>
+ <img height="48" width="48" src="https://user-images.githubusercontent.com/64016811/90973890-c7731900-e543-11ea-863e-807c11bedcb9.png"/>
+ <img height="48" width="48" src="https://user-images.githubusercontent.com/64016811/90974055-4ddc2a80-e545-11ea-83e4-a14f29d3b29c.png"/>
+ <img height="48" width="48" src="https://user-images.githubusercontent.com/64016811/90974121-d22ead80-e545-11ea-86fa-b74cb258177f.png"/>
+ <img height="48" width="48" src="https://user-images.githubusercontent.com/64016811/90974102-b0cdc180-e545-11ea-93df-cfba3bceeeba.png"/>
+ <img height="48" width="48" src=""/>
+ <img height="48" width="48" src=""/>
+ <img height="48" width="48" src=""/>
+ <img height="48" width="48" src=""/>
+ <img height="48" width="48" src=""/>
+ <img height="48" width="48" src=""/>
+ <img height="48" width="48" src=""/>
+ <img height="48" width="48" src=""/>
+ <img height="48" width="48" src=""/>
+ </scan>
