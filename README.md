@@ -4,7 +4,7 @@
 ## Who am I ?
 <h3> Hi,I am Mainak Chaudhuri, a passionate Github Repositor 😍💖💻❣🖥</h3>
 <h3> You can find me here : 
-<span><a href="http://www.github.com" title="Github"><i style="margin-right: 0.5em; color: #EEEEEE;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a>&nbsp&nbsp&nbsp<a href="http://www.linkedin.com" title="Linkedin"><i style="margin-right: 0.5em; color: #EEEEEE;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" /></a></span>
+<span><a href="http://www.github.com/MainakRepositor" title="Github"><i style="margin-right: 0.5em; color: #EEEEEE;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a>&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin"><i style="margin-right: 0.5em; color: #EEEEEE;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" /></a></span>
 <br>
 <hr>
 Well, I am a Computer Science Engineering undergraduate who just landed into the second year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. Personally, I am very introvert but socially I am hyper-active. I love codes and cats. I am much passionate to learn more of Data Science and Machine Learning, so that I could implement them to analyse the huge data which the world produces.
