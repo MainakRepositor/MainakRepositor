@@ -24,7 +24,7 @@ I am a Computer Science Engineering undergraduate who just landed into the secon
   <li>HackerRank Coding Practioner : 5✨ in Python coding; 5✨ in 30 Days of Code challenge; 2✨ in SQL; 2✨ in Statistics 💻🖥💻</li>
   <li>Streamlit Webapps developer📱</li>
   <li>Music lover🎼🎵</li>
-  </ol><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/simpleicons.svg" />
+  </ol>
     
 ### Programming Languages known:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> 
+<img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90972902-8fb3a380-e53a-11ea-98cb-a2093c274d27.png" /> 
