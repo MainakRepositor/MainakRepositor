@@ -66,7 +66,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  <center><img height="400" width="600" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
  
  
- ### Hobbies
+ ### Hobbies:
  <ul>
  <li> Acting </li>
  <li> Creative writing </li>
@@ -75,3 +75,12 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  <li> Making small mechanical toys and tools </li>        
  <li> Free-style dancing (although, I am not good at this \_('')_/) </li>
  </ul> 
+
+### My Favourites:
+<ul>
+ <li> Favourite Person : My Parents 💖 <li>
+ <li> Favourite Actor  : Ranveer Singh  <li>
+ <li> Favourite Sport  : Cricket <li>
+ <li> Favourite Sportstar : Mahindra Singh Dhoni and Sourav Ganguli </li>
+ <li> Favourite Singer : Arijit Singh </li>
+ </ul>
