@@ -77,7 +77,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
   [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical)
  
  ### Most Used Languages:
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&hide=javascript,html)](https://github.com/MainakRepositor/github-readme-stats)
  <br>
  <hr>
  <h3> But...Is that all? </h3>
@@ -104,3 +104,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  <li> Favourite Sportstar : Mahindra Singh Dhoni and Sourav Ganguly </li>
  <li> Favourite Singer : Arijit Singh </li>
  </ul>
+ 
+ 
+ <center><h2>THANK YOU FOR VISITING MY PROFILE. PLEASE COME AGAIN :)</h2></center>
+ <center><img src="https://thumbs.gfycat.com/DisastrousMinorDachshund-size_restricted.gif" /></center>
