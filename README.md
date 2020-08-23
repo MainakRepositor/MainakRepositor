@@ -122,4 +122,4 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
 <hr>
 
  <center><h2>THANK YOU FOR VISITING MY PROFILE. NOW LETS HEAD ON TO SOME REPOSITORY STUFFS :)</h2></center>
- <span><center><img width="450" height="200" src="https://thumbs.gfycat.com/DisastrousMinorDachshund-size_restricted.gif" /></center> <img width="450" height="200"  src="https://bestanimations.com/Sci-Fi/Rockets/nasa-rocket-space-flight-animated-gif-image-2.gif"></span>
+ <span><center><img width="350" height="180" src="https://thumbs.gfycat.com/DisastrousMinorDachshund-size_restricted.gif" /></center>  <img width="350" height="100"  src="https://bestanimations.com/Sci-Fi/Rockets/nasa-rocket-space-flight-animated-gif-image-2.gif"></span>
