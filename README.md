@@ -11,7 +11,7 @@ I am a Computer Science Engineering undergraduate who just landed into the secon
 <br>
 
 ### My Skills:
-<span><img src="https://lh3.googleusercontent.com/proxy/w03M-2k3dQ9kFrapQmCrieFqJkv1HxTOb2A60Z3GdSlUgp0R-ulNy2D_TiEHCerlBx_7QPEeucGycLh49zaOuP4FlYJe">~(-_-)~<img src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span>
+<span><img src="https://lh3.googleusercontent.com/proxy/w03M-2k3dQ9kFrapQmCrieFqJkv1HxTOb2A60Z3GdSlUgp0R-ulNy2D_TiEHCerlBx_7QPEeucGycLh49zaOuP4FlYJe"/>&emsp<img src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span>
 <ol>
   <li>Kaggle 3x expert</li>
   <li>Data Science enthusiast</li>
