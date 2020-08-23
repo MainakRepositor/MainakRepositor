@@ -67,6 +67,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  
  ### My Github Stats
  [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor)](https://github.com/MainakRepositor/github-readme-stats)
+ [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical)
  
  
  ### Hobbies:
