@@ -28,7 +28,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 ### My Skills:
 <span><img height="300" width="400" src="https://lh3.googleusercontent.com/proxy/w03M-2k3dQ9kFrapQmCrieFqJkv1HxTOb2A60Z3GdSlUgp0R-ulNy2D_TiEHCerlBx_7QPEeucGycLh49zaOuP4FlYJe"/>    <img height="300" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span>
 <ol>
-  <li>Kaggle 3x expert🦢</li>
+  <li>Kaggle 3x expert🦢🦢🦢</li>
   <li>Data Science enthusiast📊🖥</li>
   <li>Machine Learning enthusiast (with special emphasis on regressions and trees)🌳⛰️</li>
   <li>Deep Learning enthusiast (Perceptrons and their biases are my addiction)🧠🏻</li>
