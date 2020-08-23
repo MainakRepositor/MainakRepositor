@@ -63,4 +63,4 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  </scan>
  
  ### But...Is that all?
- <center><img height="800" width="800" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
+ <center><img height="500" width="600" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
