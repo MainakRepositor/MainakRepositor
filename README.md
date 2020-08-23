@@ -69,6 +69,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  ### Hobbies:
  <ul>
  <li> Acting </li>
+ <li> Cricket</li>
  <li> Creative writing </li>
  <li> Painting </li>
  <li> Making memes </li>
