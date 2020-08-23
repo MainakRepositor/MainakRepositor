@@ -7,10 +7,11 @@
 <span><a href="http://www.github.com/MainakRepositor" title="Github"><i style="margin-right: 0.5em; color: #FFFFFF;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a>&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin"><i style="margin-right: 0.5em; color: #0000FF;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" /></a>&nbsp&nbsp&nbsp<a href="https://www.kaggle.com/mainakchaudhuri" title="Kaggle"><i style="margin-right: 0.5em; color: #0000FF;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kaggle.svg" /></a>&nbsp&nbsp&nbsp<a href="https://www.hackerrank.com/sultankhilji001" title="HackerRank"><i style="margin-right: 0.5em; color: #0000FF;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hackerrank.svg" /></a></span>
 <br>
 <hr>
-Well, I am a Computer Science Engineering undergraduate who just landed into the second year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. Personally, I am very introvert but socially I am hyper-active. I love codes and cats. I am much passionate to learn more of Data Science and Machine Learning, so that I could implement them to analyse the huge data which the world produces.
+I am a Computer Science Engineering undergraduate who just landed into the second year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. Personally, I am very introvert but socially I am hyper-active. I love codes and cats. I am much passionate to learn more of Data Science and Machine Learning, so that I could implement them to analyse the huge data which the world produces.
 <br>
 
 ### My Skills:
+<span><img src="https://lh3.googleusercontent.com/proxy/w03M-2k3dQ9kFrapQmCrieFqJkv1HxTOb2A60Z3GdSlUgp0R-ulNy2D_TiEHCerlBx_7QPEeucGycLh49zaOuP4FlYJe"><img src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span>
 <ol>
   <li>Kaggle 3x expert</li>
   <li>Data Science enthusiast</li>
