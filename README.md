@@ -87,9 +87,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
   
  ## My Github Stats:
  
- <img width="450" height="220" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" />
- 
-  [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical)
+ <span> [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical) <img width="200" height="200" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
  
  ### Most Used Languages:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&hide=javascript,html)](https://github.com/MainakRepositor/github-readme-stats)
