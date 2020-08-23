@@ -101,7 +101,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
 <hr>
 
 ### My Favourites:
-<img weight="700" height="200" src="https://data.whicdn.com/images/211952196/original.gif">
+<span><img weight="700" height="200" src="https://data.whicdn.com/images/211952196/original.gif"> <img weight="700" height="200" src="https://www.kotaku.com.au/content/uploads/sites/3/2017/06/google-cricket.gif"> <img  weight="700" height="200" src="https://shefalihunjan.files.wordpress.com/2016/12/gifit_1488167628023.gif?w=327&h=184"></span>
 <ul>
  <li> Favourite Person : My Parents 💖 </li>
  <li> Favourite Actor  : Ranveer Singh  </li>
