@@ -1,12 +1,12 @@
 # NAMASTEY WORLD 🙏
 <center><img src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></center>
-<div>
   <head>
   <style>
     body {
       background-image: url(https://wallup.net/wp-content/uploads/2019/09/110394-cats-grey-kittens-fluffy-fat-grass-animals-cat-kitten-baby-cute-748x468.jpg) 
     }
   </style>
+ </head>
 ## Who am I ?
 <h3> Hi,I am Mainak Chaudhuri, a passionate Github Repositor 😍💖💻❣🖥</h3>
 You can find me here :
