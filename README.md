@@ -76,7 +76,6 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977451-4af03280-e563-11ea-8986-8495252219de.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977455-5ba0a880-e563-11ea-8ba9-e975452f2d68.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973583-fb007400-e540-11ea-9634-6c4f1657ed77.png" />
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977503-94408200-e563-11ea-8c7d-f5c4d56e191d.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90981071-9b27be80-e57c-11ea-8950-c3ebd08bb399.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90981173-2f922100-e57d-11ea-85ad-67414399dac1.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90981190-446eb480-e57d-11ea-8a33-69aecae60e4d.png" />
