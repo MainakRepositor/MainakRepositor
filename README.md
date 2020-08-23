@@ -7,7 +7,7 @@
 <span><a href="http://www.github.com/MainakRepositor" title="Github"><i style="margin-right: 0.5em; color: #FFFFFF;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a>&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974022-11a8ca00-e545-11ea-96a5-945e6704f134.png" /></a>&nbsp&nbsp&nbsp<a href="https://www.kaggle.com/mainakchaudhuri" title="Kaggle"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90973912-fee1c580-e543-11ea-8bd8-d5c75824b0df.png" /></a>&nbsp&nbsp&nbsp<a href="https://www.hackerrank.com/sultankhilji001" title="HackerRank"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974048-3c931e00-e545-11ea-9a62-608a72609c14.png" /></a></span>
 <br>
 <hr>
-I am a Computer Science Engineering undergraduate who just landed into the second year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. Personally, I am very introvert but in technical domain I am hyper-active. I love codes and cats. I am much passionate to learn more of Data Science and Machine Learning, so that I could implement them to analyse the huge data which the world produces.
+I am a Computer Science Engineering undergraduate of the SRM University, Chennai who just landed into the second year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. Personally, I am very introvert but in technical domain I am hyper-active. I love codes and cats. I am much passionate to learn more of Data Science and Machine Learning, so that I could implement them to analyse the huge data which the world produces.
 <br>
 
 ### My Skills:
@@ -61,3 +61,6 @@ I am a Computer Science Engineering undergraduate who just landed into the secon
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977455-5ba0a880-e563-11ea-8ba9-e975452f2d68.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977503-94408200-e563-11ea-8c7d-f5c4d56e191d.png" />
  </scan>
+ 
+ ### But...Is that all?
+ <center><img src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif"></center>
