@@ -13,17 +13,17 @@ I am a Computer Science Engineering undergraduate who just landed into the secon
 ### My Skills:
 <span><img height="300" width="400" src="https://lh3.googleusercontent.com/proxy/w03M-2k3dQ9kFrapQmCrieFqJkv1HxTOb2A60Z3GdSlUgp0R-ulNy2D_TiEHCerlBx_7QPEeucGycLh49zaOuP4FlYJe"/>    <img height="300" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span>
 <ol>
-  <li>Kaggle 3x expert</li>
-  <li>Data Science enthusiast</li>
-  <li>Machine Learning enthusiast (with special emphasis on regressions and trees)</li>
-  <li>Deep Learning enthusiast (Perceptrons and their biases are my addiction)</li>
-  <li>Web Developer (Fullstack, comfortable with MERN stacks)</li>
-  <li>Computer Vision enthusiast</li>
-  <li>Linux Shell Scripter</li>
-  <li>Ethical Hacker</li>
-  <li>HackerRank Coding Practioner : 5✨ in Python coding; 5✨ in 30 Days of Code challenge; 2✨ in SQL; 2✨ in Statistics </li>
-  <li>Streamlit Webapps developer</li>
-  <li>Music lover</li>
+  <li>Kaggle 3x expert🦢</li>
+  <li>Data Science enthusiast📊🖥</li>
+  <li>Machine Learning enthusiast (with special emphasis on regressions and trees)🌳⛰️</li>
+  <li>Deep Learning enthusiast (Perceptrons and their biases are my addiction)🧠🏻</li>
+  <li>Web Developer (Fullstack, comfortable with MERN stacks)🕸️</li>
+  <li>Computer Vision enthusiast🤖</li>
+  <li>Linux Shell Scripter🐧</li>
+  <li>Ethical Hacker☠️</li>
+  <li>HackerRank Coding Practioner : 5✨ in Python coding; 5✨ in 30 Days of Code challenge; 2✨ in SQL; 2✨ in Statistics 💻🖥💻</li>
+  <li>Streamlit Webapps developer📱</li>
+  <li>Music lover🎼🎵</li>
   </ol>
     
 ### Programming Languages known:
