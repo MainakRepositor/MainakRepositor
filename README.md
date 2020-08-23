@@ -1,5 +1,5 @@
-# NAMASTEY WORLD 🙏
-<center><img src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></center>
+<h1> NAMASTEY WORLD 🙏</h1>
+<img src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></div>
  
 
 <h3><center> Hi,I am Mainak Chaudhuri, a passionate Github Repositor 😍💖💻❣🖥</center></h3>
@@ -84,7 +84,11 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  </scan>
  <hr>
   
- ### My Github Stats:
+  
+ ## My Github Stats:
+ 
+ <img width="450" height="220" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" />
+ 
   [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical)
  
  ### Most Used Languages:
