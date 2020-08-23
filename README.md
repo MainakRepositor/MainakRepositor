@@ -70,7 +70,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
  <br>
  <hr>
- ## But...Is that all?
+ <h3> But...Is that all? </h3>
  <center><img height="400" width="600" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
  
  ### Hobbies:
