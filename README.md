@@ -55,7 +55,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973342-cf7c8a00-e53e-11ea-9684-00faacadbd14.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973347-dc00e280-e53e-11ea-8072-7dd69c270cd9.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973375-19fe0680-e53f-11ea-8cc3-62ea90a45d06.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973583-fb007400-e540-11ea-9634-6c4f1657ed77.png"/>
+ 
  </scan>
 <hr>
 
@@ -76,7 +76,9 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977437-2f852780-e563-11ea-8f0c-d1d27bb9d552.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977451-4af03280-e563-11ea-8986-8495252219de.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977455-5ba0a880-e563-11ea-8ba9-e975452f2d68.png" />
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973583-fb007400-e540-11ea-9634-6c4f1657ed77.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977503-94408200-e563-11ea-8c7d-f5c4d56e191d.png" />
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90981071-9b27be80-e57c-11ea-8950-c3ebd08bb399.png" />
  </scan>
  <hr>
   
