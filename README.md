@@ -98,6 +98,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  <li> Making small mechanical toys and tools </li>        
  <li> Free-style dancing (although, I am not good at this \_('')_/) </li>
  </ul> 
+<hr>
 
 ### My Favourites:
 <img weight="700" height="200" src="https://data.whicdn.com/images/211952196/original.gif">
@@ -109,6 +110,7 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  <li> Favourite Singer : Arijit Singh </li>
  </ul>
  
- 
+<hr>
+
  <center><h2>THANK YOU FOR VISITING MY PROFILE. PLEASE COME AGAIN :)</h2></center>
  <center><img src="https://thumbs.gfycat.com/DisastrousMinorDachshund-size_restricted.gif" /></center>
