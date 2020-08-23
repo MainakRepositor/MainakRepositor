@@ -39,5 +39,5 @@ I am a Computer Science Engineering undergraduate who just landed into the secon
  <img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90973342-cf7c8a00-e53e-11ea-9684-00faacadbd14.png"/>
  <img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90973347-dc00e280-e53e-11ea-8072-7dd69c270cd9.png"/>
  <img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90973375-19fe0680-e53f-11ea-8cc3-62ea90a45d06.png"/>
- <img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90973375-19fe0680-e53f-11ea-8cc3-62ea90a45d06.png"/>
+ <img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90973583-fb007400-e540-11ea-9634-6c4f1657ed77.png"/>
  </scan>
