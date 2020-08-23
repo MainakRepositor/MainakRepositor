@@ -56,4 +56,8 @@ I am a Computer Science Engineering undergraduate who just landed into the secon
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973940-48caab80-e544-11ea-9369-9854cce9b94e.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973861-9b579800-e543-11ea-9a15-13c79ec872b9.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973903-e5d91480-e543-11ea-8444-d9449659d598.png" />
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977437-2f852780-e563-11ea-8f0c-d1d27bb9d552.png" />
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977451-4af03280-e563-11ea-8986-8495252219de.png" />
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977455-5ba0a880-e563-11ea-8ba9-e975452f2d68.png" />
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977503-94408200-e563-11ea-8c7d-f5c4d56e191d.png" />
  </scan>
