@@ -62,12 +62,16 @@ I am a Computer Science Engineering undergraduate of the SRM University, Chennai
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90977503-94408200-e563-11ea-8c7d-f5c4d56e191d.png" />
  </scan>
  
- ## But...Is that all?
- <center><img height="400" width="600" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
  
- ### My Github Stats
+ ### My Github Stats:
   [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical)
  
+ ### Most Used Languages:
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+ <br>
+ <hr>
+ ## But...Is that all?
+ <center><img height="400" width="600" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
  
  ### Hobbies:
  <ul>
