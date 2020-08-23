@@ -4,7 +4,7 @@
 ## Who am I ?
 <h3> Hi,I am Mainak Chaudhuri, a passionate Github Repositor 😍💖💻❣🖥</h3>
 <h3> You can find me here : 
-<span><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /><a href="http://www.github.com" title="Github"><i style="margin-right: 0.5em; color: #EEEEEE;" class="icon-home icon-4x"></i>Github</a>&nbsp&nbsp&nbsp<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" />&nbsp&nbsp&nbsp<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/kaggle.svg" />&nbsp&nbsp&nbsp<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/hackerrank.svg" />&nbsp&nbsp&nbsp<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/gmail.svg" /></span></h3>
+<span><a href="http://www.github.com" title="Github"><i style="margin-right: 0.5em; color: #EEEEEE;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a>&nbsp&nbsp&nbsp<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" />&nbsp&nbsp&nbsp<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/kaggle.svg" />&nbsp&nbsp&nbsp<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/hackerrank.svg" />&nbsp&nbsp&nbsp<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/gmail.svg" /></span></h3>
 
 <br>
 <hr>
