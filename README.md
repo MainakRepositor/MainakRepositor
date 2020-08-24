@@ -91,7 +91,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <br>
  <hr>
  <div align="center"><h3> But...Is that all? </h3></div>
- <center><img height="300" width="500" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
+<div align="center"><img height="300" width="500" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></div>
  
  ### Hobbies:
  <img height="120" width="500" src="https://cdn.lowgif.com/medium/2a9b46351ee742bd-image-hobbies-gif-twilight-saga-wiki-fandom-powered.gif" />
