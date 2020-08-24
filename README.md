@@ -88,7 +88,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <span> [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical) <img width="200" height="200" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
  
  ### Most Used Languages:
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&hide=javascript,html)](https://github.com/MainakRepositor/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&hide=javascript,html)](https://github.com/MainakRepositor/github-readme-stats) <img width="200" height="200" src="https://media1.tenor.com/images/89d4d2fc8062266cb804776a27be448d/tenor.gif?itemid=14491941" /></span>
  <br>
  <hr>
  <h3> But...Is that all? </h3>
