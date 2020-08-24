@@ -1,5 +1,5 @@
 <h1> NAMASTEY WORLD 🙏</h1>
-<img src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></div>
+<img height="300" width="600" src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></div>
  
 
 <h3><center> Hi,I am Mainak Chaudhuri, a passionate Github Repositor 😍💖💻❣🖥</center></h3>
@@ -95,7 +95,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <center><img height="300" width="500" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
  
  ### Hobbies:
- <img height="220" width="500" src="https://cdn.lowgif.com/medium/2a9b46351ee742bd-image-hobbies-gif-twilight-saga-wiki-fandom-powered.gif" />
+ <img height="160" width="500" src="https://cdn.lowgif.com/medium/2a9b46351ee742bd-image-hobbies-gif-twilight-saga-wiki-fandom-powered.gif" />
  <ul>
  <li> Acting </li>
  <li> Cricket</li>
