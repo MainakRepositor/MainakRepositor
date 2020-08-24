@@ -1,4 +1,4 @@
-<h1> NAMASTEY WORLD <img height="30" width="30" src="https://media.tenor.com/images/39b5909d8eb12e62d6b0926a39d9c4b5/tenor.gif" /></h1>
+<h1> NAMASTEY WORLD <img height="50" width="50" src="https://media.tenor.com/images/39b5909d8eb12e62d6b0926a39d9c4b5/tenor.gif" /></h1>
 <img height="300" width="600" src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></div>
  
 
