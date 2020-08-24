@@ -27,7 +27,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 <hr>
 
 ### My Skills:
-<span><img height="200" width="400" src="https://lh3.googleusercontent.com/proxy/ug2BuLoVy_M1rXcpqVguQUFpyrr8M5UKhECBMNqyao8AhQ1BZ1hUu05xKZHOddjrad5ROV96eZswudBSVJlj-HMiZ7oj9RvT0qRHkis53Wkmrh7JiQfFns-Auj3c_5XaJnA"/>    <img height="200" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span>
+<div align="center"><span><img height="200" width="400" src="https://lh3.googleusercontent.com/proxy/ug2BuLoVy_M1rXcpqVguQUFpyrr8M5UKhECBMNqyao8AhQ1BZ1hUu05xKZHOddjrad5ROV96eZswudBSVJlj-HMiZ7oj9RvT0qRHkis53Wkmrh7JiQfFns-Auj3c_5XaJnA"/>    <img height="200" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span></div>
 <ol>
   <li>Kaggle 3x expert🦢🦢🦢</li>
   <li>Data Science enthusiast📊🖥</li>
@@ -84,15 +84,15 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <hr>
   
   
- ## My Github Stats:
+<div align="center"><h2> My Github Stats: </h2></div>
  
- <span> [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical) <img width="200" height="200" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
+ <div align="center"><span> [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical) <img width="200" height="200" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span></div>
  
- ### Most Used Languages:
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&hide=javascript,html)](https://github.com/MainakRepositor/github-readme-stats) <img width="200" height="200" src="https://media1.tenor.com/images/89d4d2fc8062266cb804776a27be448d/tenor.gif?itemid=14491941" /></span>
+<div align="center"><h3> Most Used Languages: </h3></div>
+ <div align="center"><span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&hide=javascript,html)](https://github.com/MainakRepositor/github-readme-stats) <img width="200" height="200" src="https://media1.tenor.com/images/89d4d2fc8062266cb804776a27be448d/tenor.gif?itemid=14491941" /></span></div>
  <br>
  <hr>
- <h3> But...Is that all? </h3>
+ <div align="center"><h3> But...Is that all? </h3></div>
  <center><img height="300" width="500" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
  
  ### Hobbies:
@@ -109,7 +109,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 <hr>
 
 ### My Favourites:
-<span><img weight="700" height="200" src="https://i.makeagif.com/media/3-16-2015/6PGP0v.gif"> <img  weight="700" height="200" src="https://shefalihunjan.files.wordpress.com/2016/12/gifit_1488167628023.gif?w=327&h=184"> </span>
+<div align="center"><span><img weight="700" height="200" src="https://i.makeagif.com/media/3-16-2015/6PGP0v.gif"> <img  weight="700" height="200" src="https://shefalihunjan.files.wordpress.com/2016/12/gifit_1488167628023.gif?w=327&h=184"> </span></div>
 <ul>
  <li> My Idols (Great souls, who have moulded my life) : SWAMI VIVEKANANDA and Dr. APJ ABDUL KALAM 🙏🙏🙏.
  <li> Favourite Person : My Parents 💖 </li>
@@ -121,5 +121,5 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  
 <hr>
 
- <center><h2>THANK YOU FOR VISITING MY PROFILE. NOW LETS HEAD ON TO SOME REPOSITORY STUFFS :)</h2></center>
- <span><center><img width="350" height="180" src="https://thumbs.gfycat.com/DisastrousMinorDachshund-size_restricted.gif" /></center>  <img width="350" height="180"  src="https://bestanimations.com/Sci-Fi/Rockets/nasa-rocket-space-flight-animated-gif-image-2.gif"></span>
+ <div align="center"><h2>THANK YOU FOR VISITING MY PROFILE. NOW LETS HEAD ON TO SOME REPOSITORY STUFFS :)</h2><div>
+ <div align="center"><span><center><img width="350" height="180" src="https://thumbs.gfycat.com/DisastrousMinorDachshund-size_restricted.gif" /></center>  <img width="350" height="180"  src="https://bestanimations.com/Sci-Fi/Rockets/nasa-rocket-space-flight-animated-gif-image-2.gif"></span></div>
