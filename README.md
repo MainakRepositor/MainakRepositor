@@ -97,7 +97,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  ### Hobbies:
  <img height="120" width="500" src="https://cdn.lowgif.com/medium/2a9b46351ee742bd-image-hobbies-gif-twilight-saga-wiki-fandom-powered.gif" />
  <ul>
- <li> Acting </li>
+ <li> Acting <img height="25" width="25" src="https://thumbs.gfycat.com/CompetentMeekArabianwildcat-max-1mb.gif" > </li>
  <li> Cricket</li>
  <li> Creative writing </li>
  <li> Painting </li>
