@@ -1,4 +1,5 @@
 <div align="center"><h1> NAMASTEY WORLD <span> <img height="50" width="50" src="https://media.tenor.com/images/39b5909d8eb12e62d6b0926a39d9c4b5/tenor.gif" ><img height="50" width="50" src="https://thumbs.gfycat.com/BrownAnchoredBelugawhale-max-1mb.gif" ></span></h1></div>
+<span><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"><img src="https://forthebadge.com/images/badges/built-by-developers.svg"><img src="https://forthebadge.com/images/badges/for-you.svg"></span>
 <div align="center"><img height="300" width="600" src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></div>
  
 
