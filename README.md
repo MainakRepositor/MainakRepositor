@@ -86,10 +86,10 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   
 <div align="center"><h2> My Github Stats: </h2></div>
  
- <div align="center"><span> [![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical) <img width="200" height="200" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span></div>
+<span>![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical) <img width="200" height="200" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
  
 <div align="center"><h3> Most Used Languages: </h3></div>
- <div align="center"><span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&hide=javascript,html)](https://github.com/MainakRepositor/github-readme-stats) <img width="200" height="200" src="https://media1.tenor.com/images/89d4d2fc8062266cb804776a27be448d/tenor.gif?itemid=14491941" /></span></div>
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor)](https://github.com/MainakRepositor/github-readme-stats) <img width="200" height="200" src="https://media1.tenor.com/images/89d4d2fc8062266cb804776a27be448d/tenor.gif?itemid=14491941"/></span>
  <br>
  <hr>
  <div align="center"><h3> But...Is that all? </h3></div>
