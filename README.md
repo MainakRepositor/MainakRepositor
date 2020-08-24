@@ -26,7 +26,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 <hr>
 
 ### My Skills:
-<span><img height="300" width="400" src="https://lh3.googleusercontent.com/proxy/ug2BuLoVy_M1rXcpqVguQUFpyrr8M5UKhECBMNqyao8AhQ1BZ1hUu05xKZHOddjrad5ROV96eZswudBSVJlj-HMiZ7oj9RvT0qRHkis53Wkmrh7JiQfFns-Auj3c_5XaJnA"/>    <img height="300" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span>
+<span><img height="200" width="400" src="https://lh3.googleusercontent.com/proxy/ug2BuLoVy_M1rXcpqVguQUFpyrr8M5UKhECBMNqyao8AhQ1BZ1hUu05xKZHOddjrad5ROV96eZswudBSVJlj-HMiZ7oj9RvT0qRHkis53Wkmrh7JiQfFns-Auj3c_5XaJnA"/>    <img height="200" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span>
 <ol>
   <li>Kaggle 3x expert🦢🦢🦢</li>
   <li>Data Science enthusiast📊🖥</li>
@@ -92,7 +92,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <br>
  <hr>
  <h3> But...Is that all? </h3>
- <center><img height="400" width="600" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
+ <center><img height="300" width="500" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></center>
  
  ### Hobbies:
  <img src="https://cdn.lowgif.com/medium/2a9b46351ee742bd-image-hobbies-gif-twilight-saga-wiki-fandom-powered.gif" />
