@@ -1,11 +1,17 @@
 <div align="center"><h1> NAMASTEY WORLD <span> <img height="50" width="50" src="https://media.tenor.com/images/39b5909d8eb12e62d6b0926a39d9c4b5/tenor.gif" ><img height="50" width="50" src="https://thumbs.gfycat.com/BrownAnchoredBelugawhale-max-1mb.gif" ></span></h1></div>
 <div align="center"><span><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"><img src="https://forthebadge.com/images/badges/built-by-developers.svg"><img src="https://forthebadge.com/images/badges/for-you.svg"></span></div>
 <div align="center"><img height="300" width="600" src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></div>
- 
+<div align="center"><table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/MainakRepositor/count.svg" alt="vistor count" height="50" /></td>
+  </tr>
+</table></div>
 
 <div align="center"><h3> Hi,I am Mainak Chaudhuri, a passionate Github Repositor 😍💖💻❣🖥</h3>
 <div align="center"><h3> You can find me here : </h3></div>
 <span><a href="http://www.github.com/MainakRepositor" title="Github"><i style="margin-right: 0.5em; color: #FFFFFF;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a>&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974022-11a8ca00-e545-11ea-96a5-945e6704f134.png" /></a>&nbsp&nbsp&nbsp<a href="https://www.kaggle.com/mainakchaudhuri" title="Kaggle"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90973912-fee1c580-e543-11ea-8bd8-d5c75824b0df.png" /></a>&nbsp&nbsp&nbsp<a href="https://www.hackerrank.com/sultankhilji001" title="HackerRank"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974048-3c931e00-e545-11ea-9a62-608a72609c14.png" /></a>&nbsp&nbsp&nbsp<a href="https://www.sololearn.com/Profile/16723647" title="Sololearn"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974016-fdfd6380-e544-11ea-89f6-f2287c172c63.png" /></a></span></div>
+
 
 <hr>
 <div align="center">
@@ -88,6 +94,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 <div align="center"><h2> My Github Stats: </h2></div>
  
 <span>![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical) <img width="200" height="200" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
+[![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&theme=radical)] (https://github.com/MainakRepositor/github-readme-stats)
  
  <br>
  <hr>
