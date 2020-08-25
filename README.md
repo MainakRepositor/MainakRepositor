@@ -35,7 +35,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 <hr>
 
 ### My Skills:
-<div align="center"><span><img height="200" width="400" src="https://lh3.googleusercontent.com/proxy/ug2BuLoVy_M1rXcpqVguQUFpyrr8M5UKhECBMNqyao8AhQ1BZ1hUu05xKZHOddjrad5ROV96eZswudBSVJlj-HMiZ7oj9RvT0qRHkis53Wkmrh7JiQfFns-Auj3c_5XaJnA"/>    <img height="200" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span></div>
+<div align="center"><span><img height="200" width="400" src="https://bestanimations.com/Science/Gears/loadinggears/loading-gears-animation-3.gif"/>    <img height="200" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span></div>
 <ol>
   <li>Kaggle 3x expert🦢🦢🦢</li>
   <li>Data Science enthusiast📊🖥</li>
