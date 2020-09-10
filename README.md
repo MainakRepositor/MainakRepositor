@@ -1,6 +1,6 @@
 <div align="center"><h1> NAMASTEY WORLD <span> <img height="50" width="50" src="https://media.tenor.com/images/39b5909d8eb12e62d6b0926a39d9c4b5/tenor.gif" ><img height="50" width="50" src="https://thumbs.gfycat.com/BrownAnchoredBelugawhale-max-1mb.gif" ></span></h1></div>
 <div align="center"><span><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/for-you.svg"></span></div>
-<div align="center"><img height="300" width="600" src="https://media3.giphy.com/media/SbKNFpFZEumGTkgPgA/source.gif"></div>
+
 <div align="center"><img height="50" width="400" src="https://i.pinimg.com/originals/88/81/44/8881444f23794650da1fe33c1bed39e0.gif"></div>
 <div align="center"><table>
   <tr>
