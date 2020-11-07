@@ -108,7 +108,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <li> Acting <img height="25" width="25" src="https://thumbs.gfycat.com/CompetentMeekArabianwildcat-max-1mb.gif" > </li>
  <li> Cricket <img height="25" width="25" src="https://i.pinimg.com/originals/85/12/52/8512524d86440e048adbbc225e4a753c.png" > </li>
  <li> Creative writing <img height="25" width="25" src="https://i.pinimg.com/originals/fb/16/4c/fb164c25c9c83206fef9028a91ebfeb9.gif" > </li>
- <li> Painting <img height="25" width="25" src="https://lh3.googleusercontent.com/proxy/aNCa__XpcEW6boP1AX2uuml5cbkIVizV_bC0IZGszLdT37ONXkMEjgT2byV2nXTbNIBqVip2JjAAYc3UFrOxqAjWQwaW_vQwycjiOrfOmyoeEn5fRQbfdB83lkxNFg" > </li>
+ <li> Painting <img height="25" width="25" src="https://thumbs.gfycat.com/BeautifulOrneryBichonfrise-max-1mb.gif" > </li>
  <li> Making memes <img height="25" width="25" src="https://i.pinimg.com/originals/2d/32/e1/2d32e156fc3b1e39869e15a00b514aab.gif" > </li>
  <li> Making small mechanical toys and tools <img height="25" width="25" src="https://i.pinimg.com/originals/77/69/60/776960aa8d0642c0ce1506b8b13c0a0c.gif" > </li>        
  <li> Free-style dancing (although, I am not good at this \_('')_/) <img height="25" width="25" src="https://i.pinimg.com/originals/7a/55/59/7a5559e72bbf2b6d2b45d02f9f3e64f2.gif" > </li>
