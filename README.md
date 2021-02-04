@@ -130,3 +130,5 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   
  <div align="center"><h2>THANK YOU FOR VISITING MY PROFILE. NOW LETS HEAD ON TO SOME REPOSITORY STUFFS :)</h2><div>
  <div align="center"><span><center><img width="350" height="180" src="https://thumbs.gfycat.com/DisastrousMinorDachshund-size_restricted.gif" /></center>  <img width="350" height="180"  src="https://bestanimations.com/Sci-Fi/Rockets/nasa-rocket-space-flight-animated-gif-image-2.gif"></span></div>
+  
+  [![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
