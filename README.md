@@ -25,7 +25,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  
 ### What I do in Github ?
 
-<h4> LOL. I contribute to [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) </h4>
+<h4> LOL. I contribute to </h4>[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 <ul>
  <li>🔭 I’m currently working on something cool and exciting 😉</li>
  <li>🌱 I’m currently learning Deep Learning, Functional Programming and Flutter Development</li>
