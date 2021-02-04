@@ -24,6 +24,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 <hr>
  
 ### What I do in Github ?
+[![HitCount](http://hits.dwyl.com/MainakRepositor/MainakRepositor.svg)](http://hits.dwyl.com/MainakRepositor/MainakRepositor)
 <h4> LOL. I contribute to open source. Okay... </h4>
 <ul>
  <li>🔭 I’m currently working on something cool and exciting 😉</li>
