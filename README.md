@@ -13,6 +13,7 @@
 <div align="center"><h3> You can find me here : </h3></div>
 <span><a href="http://www.github.com/MainakRepositor" title="Github"><i style="margin-right: 0.5em; color: #FFFFFF;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a>&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974022-11a8ca00-e545-11ea-96a5-945e6704f134.png" /></a></a>&nbsp&nbsp&nbsp<a href="https://www.hackerrank.com/sultankhilji001" title="HackerRank"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974048-3c931e00-e545-11ea-9a62-608a72609c14.png" /></a>&nbsp&nbsp&nbsp<a href="https://www.sololearn.com/Profile/16723647" title="Sololearn"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974016-fdfd6380-e544-11ea-89f6-f2287c172c63.png" /></a></span></div>
 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <hr>
 <div align="center">
@@ -25,7 +26,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  
 ### What I do in Github ?
 
-<h4> LOL. I contribute to </h4>[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+<h4> I contribute to open source 💖🎯</h4>
 <ul>
  <li>🔭 I’m currently working on something cool and exciting 😉</li>
  <li>🌱 I’m currently learning Deep Learning, Functional Programming and Flutter Development</li>
