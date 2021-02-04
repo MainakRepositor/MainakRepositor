@@ -24,8 +24,8 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 <hr>
  
 ### What I do in Github ?
-[![HitCount](http://hits.dwyl.com/MainakRepositor/MainakRepositor.svg)](http://hits.dwyl.com/MainakRepositor/MainakRepositor)
-<h4> LOL. I contribute to open source. Okay... </h4>
+
+<h4> LOL. I contribute to [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) </h4>
 <ul>
  <li>🔭 I’m currently working on something cool and exciting 😉</li>
  <li>🌱 I’m currently learning Deep Learning, Functional Programming and Flutter Development</li>
