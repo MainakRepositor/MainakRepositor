@@ -21,6 +21,7 @@
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 [![GitHub followers](https://img.shields.io/github/followers/MainakRepositor.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MainakRepositor?tab=followers)
 
+
 <hr>
 <div align="center">
  <h3> About Me </h3></div>
@@ -139,9 +140,9 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <div align="center"><h2>THANK YOU FOR VISITING MY PROFILE. NOW LETS HEAD ON TO SOME REPOSITORY STUFFS :)</h2><div>
  <div align="center"><span><center><img width="350" height="180" src="https://thumbs.gfycat.com/DisastrousMinorDachshund-size_restricted.gif" /></center>  <img width="350" height="180"  src="https://bestanimations.com/Sci-Fi/Rockets/nasa-rocket-space-flight-animated-gif-image-2.gif"></span></div>
   
-  [![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+  [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
   
   
-## My Badges:
+## NOW I AM A 
 
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
