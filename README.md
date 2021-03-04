@@ -100,6 +100,10 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  </scan>
  <hr>
   
+
+<a href="https://github.com/MainakRepositor/github-readme-stats-2">
+  <img align="center" src="https://github-readme-stats-2.vercel.app/api/wakatime?username=MainakRepositor&compact=True"/>
+</a>
   
 <h2> My Github Stats: </h2>
 
