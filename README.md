@@ -101,9 +101,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <hr>
   
 
-<a href="https://github.com/MainakRepositor/github-readme-stats-2">
-  <img align="center" src="https://github-readme-stats-2.vercel.app/api/wakatime?username=MainakRepositor&compact=True"/>
-</a>
+[![MainakRepositor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MainakRepositor)](https://github.com/anuraghazra/github-readme-stats)
   
 <h2> My Github Stats: </h2>
 
