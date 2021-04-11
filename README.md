@@ -106,7 +106,8 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h2> My Github Stats: </h2>
-
+<center>
+  
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
 
 [![Mainak's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -118,6 +119,8 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <hr>
  <div align="center"><h3> But...Is that all? </h3></div>
 <div align="center"><img height="300" width="500" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></div>
+
+</center>
  
  ### Hobbies:
  <img height="120" width="500" src="https://cdn.lowgif.com/medium/2a9b46351ee742bd-image-hobbies-gif-twilight-saga-wiki-fandom-powered.gif" />
