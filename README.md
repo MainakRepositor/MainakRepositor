@@ -150,3 +150,8 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 ## NOW I AM A 
 
 ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
+
+
+<hr>
+
+![Maintaner](https://img.shields.io/badge/maintainer-Mainak-blue)
