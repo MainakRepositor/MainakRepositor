@@ -104,8 +104,8 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor" alt="MainakRepositor" /></p>
  
 <span>![Mainak's github stats](https://github-readme-stats1.vercel.app/api?username=MainakRepositor&show_icons=true&theme=blue-green)<br> [![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=MainakRepositor&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1) <img width="195" height="285" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
-
-<p>[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&row=1)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<br>
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&row=1)](https://github.com/ryo-ma/github-profile-trophy)
  <br>
  <hr>
  <div align="center"><h3> But...Is that all? </h3></div>
