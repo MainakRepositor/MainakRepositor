@@ -99,10 +99,14 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90981190-446eb480-e57d-11ea-8a33-69aecae60e4d.png" />
  </scan>
  <hr>
+ 
+ 
+<h2> My Trophies: </h2>
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h2> My Github Stats: </h2>
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor" alt="MainakRepositor" /></p>
  
 <span>![Mainak's github stats](https://github-readme-stats1.vercel.app/api?username=MainakRepositor&show_icons=true&theme=blue-green)<br> [![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=MainakRepositor&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1) <img width="195" height="285" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
