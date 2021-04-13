@@ -122,6 +122,8 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 
 </center>
  
+ 
+ 
  ### Hobbies:
  <img height="120" width="500" src="https://cdn.lowgif.com/medium/2a9b46351ee742bd-image-hobbies-gif-twilight-saga-wiki-fandom-powered.gif" />
  <ul>
