@@ -24,14 +24,14 @@
 
 <hr>
 <div align="center">
- <h3> About Me </h3></div>
+ <h3> 🎭👋 About Me </h3></div>
 
 <div align="center"><img width="600" height="300" padding-left="60px" src="https://31.media.tumblr.com/c891df5d9d74fb5f8f1496d33d1cbec3/tumblr_n40g5wTcba1t24k6go1_500.gif" /></div>
 <div align="center">
 I am a Computer Science Engineering undergraduate student of the SRM University, Chennai who just landed into the second year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. I love codes and cats. I am much passionate to learn more of <u>Data Science</u> and <u>Machine Learning</u>, so that I could implement them to analyse the huge data which the world produces.</div>
 <hr>
  
-### What I do in Github ?
+### 🎈🧧 What I do in Github ?
 
 <h4> I contribute to open source 💖🎯</h4>
 <ul>
@@ -43,7 +43,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 </ul>
 <hr>
 
-### My Skills:
+### 🎯🎖⚙ My Skills:
 <div align="center"><span><img height="200" width="400" src="https://bestanimations.com/Science/Gears/loadinggears/loading-gears-animation-3.gif"/>    <img height="200" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span></div>
 <ol>
   
@@ -60,7 +60,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   </ol>
 <hr>
 
-### Programming Languages known:
+### 🖥💻💾 Programming Languages known:
 <scan><img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90972902-8fb3a380-e53a-11ea-98cb-a2093c274d27.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973568-d1474d00-e540-11ea-9cea-82845add91a7.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973537-89c0c100-e540-11ea-81c3-cf040aeaedb1.png"/>
@@ -77,7 +77,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  </scan>
 <hr>
 
-### Technologies I work on:
+### 🛠🔧⚙ Technologies I work on:
 <scan><img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973890-c7731900-e543-11ea-863e-807c11bedcb9.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90974055-4ddc2a80-e545-11ea-83e4-a14f29d3b29c.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90974121-d22ead80-e545-11ea-86fa-b74cb258177f.png" />
@@ -108,9 +108,9 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 <h2>📊 My Github Stats: </h2>
 <center>
   
-🧿  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
 
-📈  [![Mainak's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Mainak's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
 <span>![Mainak's github stats](https://github-readme-stats1.vercel.app/api?username=MainakRepositor&show_icons=true&theme=blue-green)<br> [![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=MainakRepositor&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1) <img width="195" height="285" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
 <br>
