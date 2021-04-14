@@ -101,16 +101,16 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  <hr>
  
  
-<h2>![image](https://user-images.githubusercontent.com/64016811/114670746-f7646c00-9d20-11eb-9247-50fb187a5bd4.png)  My Trophies: </h2>
+<h2>🏆 My Trophies: </h2>
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&theme=darkhub&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
   
-<h2> My Github Stats: </h2>
+<h2>📊 My Github Stats: </h2>
 <center>
   
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
+🧿  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
 
-[![Mainak's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+📈  [![Mainak's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
 <span>![Mainak's github stats](https://github-readme-stats1.vercel.app/api?username=MainakRepositor&show_icons=true&theme=blue-green)<br> [![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=MainakRepositor&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1) <img width="195" height="285" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
 <br>
