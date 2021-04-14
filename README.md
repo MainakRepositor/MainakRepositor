@@ -103,7 +103,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
  
 <h2> My Trophies: </h2>
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h2> My Github Stats: </h2>
 <center>
