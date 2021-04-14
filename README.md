@@ -62,7 +62,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 
 ### 📕📜📚 My Publications:
 
-Notebooker Pro Case Study, published at IJARIIT research portal with an impact score of <u>6.80</u>
+Notebooker Pro Case Study, published at IJARIIT research portal with an impact score of 6.80 <br>
 You can view it here : https://www.ijariit.com/manuscripts/v7i2/V7I2-1309.pdf
 
 <hr>
