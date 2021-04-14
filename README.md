@@ -112,7 +112,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 
 [![Mainak's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
-<span>![Mainak's github stats](https://github-readme-stats1.vercel.app/api?username=MainakRepositor&show_icons=true&theme=dracula)<br> [![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=MainakRepositor&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1) <img width="195" height="285" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
+<span>![Mainak's github stats](https://github-readme-stats1.vercel.app/api?username=MainakRepositor&show_icons=true&theme=darkhub)<br> [![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=MainakRepositor&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1) <img width="195" height="285" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
 <br>
 
  <br>
