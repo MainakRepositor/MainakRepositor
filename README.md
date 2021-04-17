@@ -2,8 +2,6 @@
 
 ![ss](https://user-images.githubusercontent.com/64016811/115106397-39401d00-9f82-11eb-9d2e-71c06c78e5f1.jpg)
 
-<div align="center"><span><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/for-you.svg"></span></div>
-
 <div align="center"><img height="80" width="400" src="https://i.pinimg.com/originals/88/81/44/8881444f23794650da1fe33c1bed39e0.gif"></div>
 <div align="center"><table>
   <tr>
@@ -258,6 +256,9 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 
 
 <hr>
+
+<div align="center"><span><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/for-you.svg"></span></div>
+
 
 ![Maintaner](https://img.shields.io/badge/maintainer-Mainak-blue)
 
