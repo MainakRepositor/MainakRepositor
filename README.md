@@ -122,7 +122,7 @@ You can view it here : https://www.ijariit.com/manuscripts/v7i2/V7I2-1309.pdf
  
 <span>![Mainak's github stats](https://github-readme-stats1.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical)<br> [![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=MainakRepositor&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1) <img width="195" height="285" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
 
-[![Mainak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MainakRepositor&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mainak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MainakRepositor&theme=dracula)](https://github.com/MainakRepositor/Readme-Graph)
 
 <br>
 
