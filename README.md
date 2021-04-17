@@ -1,6 +1,6 @@
 <div align="center"><h1> NAMASTEY WORLD <span> <img height="50" width="50" src="https://media.tenor.com/images/39b5909d8eb12e62d6b0926a39d9c4b5/tenor.gif" ><img height="50" width="50" src="https://thumbs.gfycat.com/BrownAnchoredBelugawhale-max-1mb.gif" ></span></h1></div>
 
-
+![ss](https://user-images.githubusercontent.com/64016811/115106397-39401d00-9f82-11eb-9d2e-71c06c78e5f1.jpg)
 
 <div align="center"><span><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/for-you.svg"></span></div>
 
@@ -13,8 +13,6 @@
 </table></div>
 
 <div align="center">
-  
-  ![ss](https://user-images.githubusercontent.com/64016811/115106397-39401d00-9f82-11eb-9d2e-71c06c78e5f1.jpg)
   
   <p align="center"><h3>You can also define me as : </h3>
   <p align="center">
