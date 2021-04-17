@@ -66,15 +66,20 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   </ol>
 <hr>
 
-<center>
+
 
 ### 📕📜📚 My Educators :
+
+<div align="center">
 
 <span>
   <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
   <img alt="Duolingo" src="https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/>
   <img alt="Khan Academy" src="https://img.shields.io/badge/Khan%20Academy%20-%2314BF96.svg?&style=for-the-badge&logo=Khan%20Academy&logoColor=white"/>
   </span>
+  
+  </div>
+  
 <hr>
 
 ### 🔍🖌🖍 Blogging, Coding and Researches : 
