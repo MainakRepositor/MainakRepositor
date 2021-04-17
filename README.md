@@ -94,9 +94,9 @@ You can view it here : https://www.ijariit.com/manuscripts/v7i2/V7I2-1309.pdf
 
 <hr>
 
-### 🛠🔧⚙ Technologies I work on:
+### 🛠🔧⚙ Techs, Frameworks and Tools I work on:
 <span>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
