@@ -180,7 +180,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 
 </span>
 
-</div>
+
  
 <h2>🏆 My Trophies: </h2>
 
@@ -200,6 +200,8 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 [![Mainak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MainakRepositor&theme=dracula)](https://github.com/MainakRepositor/Readme-Graph)
 
 <br>
+
+</div>
 
  <br>
  <hr>
