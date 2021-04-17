@@ -77,21 +77,21 @@ You can view it here : https://www.ijariit.com/manuscripts/v7i2/V7I2-1309.pdf
 <span>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-</span>
-<span><img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90972902-8fb3a380-e53a-11ea-98cb-a2093c274d27.png" />
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973568-d1474d00-e540-11ea-9cea-82845add91a7.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973537-89c0c100-e540-11ea-81c3-cf040aeaedb1.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973303-744a9780-e53e-11ea-865f-e8582e7550a4.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973308-7ca2d280-e53e-11ea-840e-6f2de883472d.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973313-8af0ee80-e53e-11ea-8b0e-7e46a9b3c75e.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973323-a1974580-e53e-11ea-9d86-9e105be955b6.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973328-b542ac00-e53e-11ea-9563-29943cb5b0d2.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973336-c095d780-e53e-11ea-8590-77cf7c43cbd0.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973342-cf7c8a00-e53e-11ea-9684-00faacadbd14.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973347-dc00e280-e53e-11ea-8072-7dd69c270cd9.png"/>
- <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973375-19fe0680-e53f-11ea-8cc3-62ea90a45d06.png"/>
- 
- </span>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+<img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
+<img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+
 <hr>
 
 ### 🛠🔧⚙ Technologies I work on:
