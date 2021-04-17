@@ -11,7 +11,7 @@
 
 <div align="center"><h3> Hi,I am Mainak Chaudhuri, a passionate Github Repositor 😍💖💻❣🖥</h3>
   <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20web%20developer;Self-taught%20Programmer;Data-Science%20Enthusiast;Machine-Learning%20and%20Deep-Learning%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=50">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20web%20developer;Self-taught%20Programmer;Data-Science%20Enthusiast;Machine-Learning%20Enthusiast;Deep-Learning%20Enthusiast;Open-source%20Contributor;DevOps%20Beginner;Lifelong%20Learners&center=true&width=380&height=50">
 </p>
 <div align="center"><h3> You can find me here : </h3></div>
 
