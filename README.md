@@ -65,7 +65,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   
   </ol>
 <hr>
-
+<center>
 ### 📕📜📚 My Educators :
 
 <span>
@@ -175,6 +175,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 
 </span>
 
+</center>
  
 <h2>🏆 My Trophies: </h2>
 
