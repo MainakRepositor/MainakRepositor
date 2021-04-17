@@ -131,6 +131,8 @@ You can view it here : https://www.ijariit.com/manuscripts/v7i2/V7I2-1309.pdf
 
 [![Mainak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MainakRepositor&theme=dracula)](https://github.com/MainakRepositor/Readme-Graph)
 
+[![Mainak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MainakRepositor)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
  <br>
