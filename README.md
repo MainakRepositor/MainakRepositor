@@ -74,6 +74,8 @@ You can view it here : https://www.ijariit.com/manuscripts/v7i2/V7I2-1309.pdf
 <hr>
 
 ### 🖥💻💾 Programming Languages known:
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <span><img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90972902-8fb3a380-e53a-11ea-98cb-a2093c274d27.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973568-d1474d00-e540-11ea-9cea-82845add91a7.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973537-89c0c100-e540-11ea-81c3-cf040aeaedb1.png"/>
