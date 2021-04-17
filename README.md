@@ -74,7 +74,7 @@ You can view it here : https://www.ijariit.com/manuscripts/v7i2/V7I2-1309.pdf
 <hr>
 
 ### 🖥💻💾 Programming Languages known:
-<scan><img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90972902-8fb3a380-e53a-11ea-98cb-a2093c274d27.png" />
+<span><img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90972902-8fb3a380-e53a-11ea-98cb-a2093c274d27.png" />
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973568-d1474d00-e540-11ea-9cea-82845add91a7.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973537-89c0c100-e540-11ea-81c3-cf040aeaedb1.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973303-744a9780-e53e-11ea-865f-e8582e7550a4.png"/>
@@ -87,7 +87,7 @@ You can view it here : https://www.ijariit.com/manuscripts/v7i2/V7I2-1309.pdf
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973347-dc00e280-e53e-11ea-8072-7dd69c270cd9.png"/>
  <img height="40" width="40" src="https://user-images.githubusercontent.com/64016811/90973375-19fe0680-e53f-11ea-8cc3-62ea90a45d06.png"/>
  
- </scan>
+ </span>
 <hr>
 
 ### 🛠🔧⚙ Technologies I work on:
