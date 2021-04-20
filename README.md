@@ -16,7 +16,7 @@
   
   <p align="center"><h3>You can also define me as : </h3>
   <p align="center">
-   <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20Web%20Developer;Self-taught%20Programmer;Data-Scientist;Machine-Learning%20Engineer;Deep-Learning%20Enthusiast;Open-source%20Contributor;DevOps%20Sophomore;Lifelong%20Learner&center=true&width=380&height=100">
+   <img src="https://github.com/DenverCoder1/readme-typing-svg/?lines=Full-stack%20Web%20Developer;Self-taught%20Programmer;Data-Scientist;Machine-Learning%20Engineer;Deep-Learning%20Enthusiast;Open-source%20Contributor;DevOps%20Sophomore;Lifelong%20Learner&center=true&width=380&height=100">
 
   </p>
 <div align="center"><h3> You can find me here : </h3></div>
