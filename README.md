@@ -14,7 +14,7 @@
 
 <div align="center">
   <span>
-  <p align="center"><h3>You can also define me as :  </h3>
+  <h3>You can also define me as :  </h3>
  
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;Ionic+App+Developer;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Freelancer;Research+Developer;DevOps+Sophomore;Self-taught+Programmer;Lifelong+Learner)](https://git.io/typing-svg)
@@ -23,7 +23,7 @@
 
   
    
-  </p>
+
 <div align="center"><h3> You can find me here : </h3></div>
 
 <span><a href="http://www.github.com/MainakRepositor" title="Github"><i style="margin-right: 0.5em; color: #FFFFFF;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a> <a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974022-11a8ca00-e545-11ea-96a5-945e6704f134.png" /></a> <a href="https://www.hackerrank.com/sultankhilji001" title="HackerRank"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974048-3c931e00-e545-11ea-9a62-608a72609c14.png" /></a> <a href="https://www.sololearn.com/Profile/16723647" title="Sololearn"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974016-fdfd6380-e544-11ea-89f6-f2287c172c63.png" /></a></span></div>
