@@ -15,9 +15,9 @@
 <div align="center">
   
   <p align="center"><h3>You can also define me as : </h3>
-  <p align="center">
+ 
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;Ionic+App+Developer;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Freelancer;Research+Developer;DevOps+Sophomore;Self-taught+Programmer;Lifelong+Learner?center=true)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;Ionic+App+Developer;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Freelancer;Research+Developer;DevOps+Sophomore;Self-taught+Programmer;Lifelong+Learner)](https://git.io/typing-svg)
 
   </p>
 <div align="center"><h3> You can find me here : </h3></div>
