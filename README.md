@@ -68,6 +68,35 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 <hr>
 
 <div align="center">
+  
+<h2>🏆 My Trophies: </h2>
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&theme=darkhub&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+  
+<h2>📊 My Github Stats: </h2>
+<center>
+  
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
+
+[![Mainak's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+ 
+<span>![Mainak's github stats](https://github-readme-stats1.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical)<br> [![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=MainakRepositor&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1) <img width="195" height="285" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
+
+
+
+<h2> My Contribution Graph: </h2>
+
+[![Mainak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MainakRepositor&theme=dracula)](https://github.com/MainakRepositor/Readme-Graph)
+
+
+
+<br>
+
+</div>  
+
+
+<div align="center">
+
 
 ### 📕📜📚 My Educators :
 
@@ -183,30 +212,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 
 
  
-<h2>🏆 My Trophies: </h2>
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&theme=darkhub&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
-  
-<h2>📊 My Github Stats: </h2>
-<center>
-  
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
-
-[![Mainak's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
- 
-<span>![Mainak's github stats](https://github-readme-stats1.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical)<br> [![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=MainakRepositor&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1) <img width="195" height="285" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
-
-
-
-<!--<h2> My Contribution Graph: </h2>-->
-
-<!--[![Mainak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MainakRepositor&theme=dracula)](https://github.com/MainakRepositor/Readme-Graph)-->
-
-
-
-<br>
-
-</div>
 
  <br>
  <hr>
@@ -215,7 +221,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 
 </center>
  
- 
+ </div>
  
  ### Hobbies:
  <img height="120" width="500" src="https://cdn.lowgif.com/medium/2a9b46351ee742bd-image-hobbies-gif-twilight-saga-wiki-fandom-powered.gif" />
