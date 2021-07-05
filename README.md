@@ -8,7 +8,7 @@
 
 ![ssss](https://user-images.githubusercontent.com/64016811/123383858-506a3f00-d5b1-11eb-9983-e85153b8a1df.jpg)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&lines=Data+Science+Enthuisast;Big+Data+Analyst;Full+stack+web+developer;Competitive+Coder;Open+Source+Contributor;Self-taught+Programmer;Lifelong+learner;Teacher;Author)](https://git.io/typing-svg)
 
 
 <div align="center"><table>
