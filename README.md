@@ -73,51 +73,10 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   </ol>
 <hr>
 
-<div align="center">
-  
-<h2>🏆 My Trophies: </h2>
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&theme=darkhub&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-  
-<h2>📊 My Github Stats: </h2>
-<center>
-  
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
-
-<table cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td rowspan="2">
-      <p align="left"> <a href="https://github.com/ashish2030">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&langs_count=100&theme=tokyonight" />
-</a> </p></td>
-    <td><a href="https://github.com/ashish2030">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical&line_height=33" alt="MainakRepositor"/>
-</a> </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ashish2030">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=highcontrast&line_height=20" alt="MainakRepositor"/>
-</a></td>
-  </tr>
-  </table>
-
-
-
-<h2> My Contribution Graph: </h2>
-
-[![Mainak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MainakRepositor&theme=dracula)](https://github.com/MainakRepositor/Readme-Graph)
-
-
-
-
-<br>
-
-</div>  
 
 
 <div align="center">
-
-
+  
 ### 📕📜📚 My Educators :
 
 
@@ -229,6 +188,64 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   
 
 </span>
+
+  
+<h2>🏆 My Trophies: </h2>
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MainakRepositor&theme=darkhub&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+  
+<h2>📊 My Github Stats: </h2>
+<center>
+  
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
+
+<table cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td rowspan="2">
+      <p align="left"> <a href="https://github.com/ashish2030">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&langs_count=100&theme=tokyonight" />
+</a> </p></td>
+    <td><a href="https://github.com/ashish2030">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical&line_height=33" alt="MainakRepositor"/>
+</a> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ashish2030">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=highcontrast&line_height=20" alt="MainakRepositor"/>
+</a></td>
+  </tr>
+  </table>
+
+  
+### Top Repositories ✨:
+
+
+
+| Repository 📚 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🖋 |
+|---------|-------|-------|--------|---------------|
+| Git Steps | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/Git-steps?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/Git-steps?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/Git-steps?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/Git-steps?style=for-the-badge) |
+| Notebooker-Pro | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/Notebooker-Pro?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/Notebooker-Pro?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/Git-steps?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/Notebooker-Pro?style=for-the-badge) |
+| ML-Algorithms | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/ML-Algorithms?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/ML-Algorithms?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/ML-Algorithms?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/ML-Algorithms?style=for-the-badge) |
+| Data-Analysis | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/Data-Analysis?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/Data-Analysis?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/Data-Analysis?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/Data-Analysis?style=for-the-badge) |
+| R-Dashboards | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/R-Dashboards?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/R-Dashboards?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/R-Dashboards?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/R-Dashboards?style=for-the-badge) |
+| Web-Projects | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/Web-Projects?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/Web-Projects?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/Web-Projects?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/Web-Projects?style=for-the-badge) |
+<h2> My Contribution Graph: </h2>
+
+[![Mainak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MainakRepositor&theme=dracula)](https://github.com/MainakRepositor/Readme-Graph)
+
+
+<br>
+
+
+
+https://user-images.githubusercontent.com/64016811/126039018-5f464099-9aa9-4c84-a670-fd9ba65074f5.mp4
+
+
+  
+  
+<div align="center">
+
+
 
 
  
