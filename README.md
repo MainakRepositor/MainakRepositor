@@ -242,16 +242,8 @@ https://user-images.githubusercontent.com/64016811/126039018-5f464099-9aa9-4c84-
 
 
   
-  
 <div align="center">
-
-
-
-
- 
-
-
- <br>
+<br>
  <hr>
  <div align="center"><h3> But...Is that all? </h3></div>
 <div align="center"><img height="300" width="500" src="https://i.pinimg.com/originals/5f/c1/7e/5fc17ef4fff6c14805727b41f82dbb47.gif" /></div>
