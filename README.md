@@ -84,9 +84,22 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
 
-[![Mainak's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
- 
-<span>![Mainak's github stats](https://github-readme-stats1.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical)<br> [![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=MainakRepositor&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1) <img width="195" height="285" src="https://media.tenor.com/images/10ea7e85eba6b89d46b32dc5577ff7c1/tenor.gif" /></span>
+<table cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td rowspan="2">
+      <p align="left"> <a href="https://github.com/ashish2030">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&langs_count=100&theme=tokyonight" />
+</a> </p></td>
+    <td><a href="https://github.com/ashish2030">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical&line_height=33" alt="MainakRepositor"/>
+</a> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ashish2030">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=highcontrast&line_height=20" alt="MainakRepositor"/>
+</a></td>
+  </tr>
+  </table>
 
 
 
