@@ -203,10 +203,10 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   <tr>
     <td rowspan="2">
       <p align="left"> <a href="https://github.com/ashish2030">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&langs_count=100&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&langs_count=100&theme=radical" />
 </a> </p></td>
     <td><a href="https://github.com/ashish2030">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=radical&line_height=33" alt="MainakRepositor"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=merko&line_height=33" alt="MainakRepositor"/>
 </a> </td>
   </tr>
   <tr>
