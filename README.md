@@ -231,7 +231,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 | MainakRepositor | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/MainakRepositor?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/MainakRepositor?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/MainakRepositor?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/MainakRepositor?style=for-the-badge) |
 <h2> My Contribution Graph: </h2>
 
-[![Mainak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MainakRepositor&theme=dracula)](https://github.com/MainakRepositor/Readme-Graph)
+<a href="https://github.com/MainakRepositor/MainakRepositor"><img alt=" Mainak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MainakRepositor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 <br>
