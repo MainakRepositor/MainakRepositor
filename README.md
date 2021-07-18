@@ -251,7 +251,7 @@ https://user-images.githubusercontent.com/64016811/126039018-5f464099-9aa9-4c84-
 </center>
  
  </div>
- 
+  
  ### Hobbies:
  <img height="120" width="500" src="https://cdn.lowgif.com/medium/2a9b46351ee742bd-image-hobbies-gif-twilight-saga-wiki-fandom-powered.gif" />
  <ul>
