@@ -72,20 +72,23 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   <li>Computer Vision enthusiast🤖</li>
   <li>Linux Shell Scripter🐧</li>
   <li>Ethical Hacker☠️</li>
-  <li>Competitive Coder (HackerRank Coding Practioner : 5✨ in Python coding; 5✨ in 30 Days of Code challenge; 2✨ in SQL; 2✨ in Statistics 💻🖥💻)</li>
+  <li>Competitive Coder (HackerRank Coding Practioner : 5✨ in Python coding; 5✨ in 30 Days of Code challenge; 2✨ in SQL; 2✨ in Statistics | Codechef 3 ⭐ Rating 1633 💻🖥💻)</li>
   <li>Streamlit Webapps developer📱</li>
   <li>Technical Researcher📕</li>
   
   </ol>
 <hr>
 
+### 💻 Competitive Coding Profile:
 
+| Website | Stars | Link | 
+|---------|-------|------|
+| Codechef | 3⭐ | [View](https://www.codechef.com/users/lucifer_khilji) |
+| HackerRank | 6⭐ | [View](https://www.hackerrank.com/MAINAK039) |
 
 <div align="center">
   
 ### 📕📜📚 My Educators :
-
-
 
 <span>
   <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
