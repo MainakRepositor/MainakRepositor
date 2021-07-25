@@ -42,7 +42,7 @@
 <div align="center">
 I am a Computer Science Engineering undergraduate student of the SRM University, Chennai who just landed into the second year of his BTech course, ever ready to learn new things, new technologies and having the dream of conquering the data world with new technologies, skills and performances. I love codes and cats. I am much passionate to learn more of <u>Data Science</u> and <u>Machine Learning</u>, so that I could implement them to analyse the huge data which the world produces.</div>
 
-### Want to know more about me? Try out [My Portfolio Website](https://mainakfolio.netlify.app/)
+### Want to know more about me? Have a look at [My Portfolio Website](https://mainakfolio.netlify.app/)
 
 <hr>
 
