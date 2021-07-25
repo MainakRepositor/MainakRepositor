@@ -21,8 +21,27 @@
 <div align="center">
  
 
-<div align="center"><h3> You can find me here : </h3></div>
-
+<div align="center"><h3> You can find me here : </h3>
+  <table>       
+    <tr>      
+      <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg"></td>
+      <td><a href="http://www.github.com/MainakRepositor" title="Github">GitHub</a></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900184-f88ad750-b1a9-4471-98d8-6cdfdd0d1915.png"></td>
+      <td><a href="https://www.hackerrank.com/MAINAK039">HackerRank</a></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900180-9fb0f2a3-bccb-4598-8a40-e6261993c143.png"></td>
+      <td><a href="https://memerminati.blogspot.com/" title="Blogger">Blogger</a></td>
+    </tr>
+    <tr>      
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900188-e92fc435-559d-489e-b429-3773de9b4352.png"></td>
+      <td><a href="https://twitter.com/leo_mainak">Twitter</a></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900195-9ce9ab12-8489-4b6c-883d-d37252f22d3f.png"></td>
+      <td><a href="https://www.codechef.com/users/lucifer_khilji">Codechef</a></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900174-9aa8ff7d-84d6-473e-9432-93690827d161.png"></td>
+      <td><a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin">Linkedin</a></td>
+    </tr>
+  </table>
+</div>
+  
 <span><a href="http://www.github.com/MainakRepositor" title="Github"><i style="margin-right: 0.5em; color: #FFFFFF;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a> <a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974022-11a8ca00-e545-11ea-96a5-945e6704f134.png" /></a> <a href="https://www.hackerrank.com/sultankhilji001" title="HackerRank"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974048-3c931e00-e545-11ea-9a62-608a72609c14.png" /></a> <a href="https://www.sololearn.com/Profile/16723647" title="Sololearn"><i style="margin-right: 0.5em;" class="icon-home icon-4x"></i><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/90974016-fdfd6380-e544-11ea-89f6-f2287c172c63.png" /></a></span></div>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
