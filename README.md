@@ -1,5 +1,5 @@
 <div align="center"><h1> NAMASTEY WORLD <span> <img height="50" width="50" src="https://media.tenor.com/images/39b5909d8eb12e62d6b0926a39d9c4b5/tenor.gif" ><img height="50" width="50" src="https://thumbs.gfycat.com/BrownAnchoredBelugawhale-max-1mb.gif" ></span></h1>
-  <h2>𝙎𝙒𝘼𝙂 𝙎𝙀 𝙆𝘼𝙍𝙀𝙉𝙂𝙀 𝙎𝘼𝘽𝙆𝙊 𝙎𝙒𝘼𝙂𝘼𝙏</h2></div>
+  <h2>❤🧡💛💚💙💜🤎🖤🤍</h2></div>
 
 ![ssd](https://user-images.githubusercontent.com/64016811/115293174-a0252800-a174-11eb-8c07-c9da12b8a3fe.jpg)
 
