@@ -240,7 +240,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   <tr>
     <td><a href="https://github.com/MainakRepositor">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MainakRepositor&theme=highcontrast&line_height=20" alt="MainakRepositor"/>
-</a></td>
+</a></td> 
   </tr>
   </table>
 
