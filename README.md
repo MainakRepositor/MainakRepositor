@@ -303,7 +303,7 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainakRepositor&langs_count=100&theme=radical" />
 </a> </p></td>
     <td><a href="https://github.com/MainakRepositor">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=merko&line_height=33" alt="MainakRepositor"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MainakRepositor&show_icons=true&theme=merko&line_height=33&include_all_commits=true" alt="MainakRepositor"/>
 </a> </td>
   </tr>
   <tr>
