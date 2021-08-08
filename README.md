@@ -259,9 +259,10 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
     </td><td>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
     </td>
+     <hr>
   </table>
 
- <hr>
+
  
 ### 🧮💿💽 Hosting, DevOps and Data stores:
 
