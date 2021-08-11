@@ -98,13 +98,6 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   </ol>
 <hr>
 
-### 💻 Competitive Coding Profile:
-
-| Website | Stars | Link | 
-|---------|-------|------|
-| Codechef | 3⭐ | [View](https://www.codechef.com/users/lucifer_khilji) |
-| HackerRank | 6⭐ | [View](https://www.hackerrank.com/MAINAK039) |
-
 <div align="center">
   
 ### 📕📜📚 My Educators :
