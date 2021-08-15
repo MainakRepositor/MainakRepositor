@@ -363,7 +363,7 @@ https://user-images.githubusercontent.com/64016811/126039018-5f464099-9aa9-4c84-
 <div align="center"><span><img weight="700" height="200" src="https://i.makeagif.com/media/3-16-2015/6PGP0v.gif"> <img  weight="700" height="200" src="https://shefalihunjan.files.wordpress.com/2016/12/gifit_1488167628023.gif?w=327&h=184"> </span></div>
 <ul>
  <li> My Idols (Great souls, who have moulded my life) : SWAMI VIVEKANANDA and Dr. APJ ABDUL KALAM 🙏🙏🙏.
- <li>People who inspired me the most : Sir Ratan Tata and Elon Musk </li>
+ <li>Person who inspired me the most : Sir Ratan Tata </li>
  <li> Favourite Person : My Parents 💖 </li>
  <li> Favourite Sport  : Cricket </li>
  <li> Favourite Sportstar : Mahendra Singh Dhoni and Sourav Ganguly </li>
