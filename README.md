@@ -7,7 +7,7 @@
 <div align="center"><img height="80" width="400" src="https://i.pinimg.com/originals/88/81/44/8881444f23794650da1fe33c1bed39e0.gif"></div>
 
 
-<div align="center"><h1>𝕿𝖔 𝖙𝖍𝖊 𝖌𝖊𝖓𝖊𝖘𝖎𝖘 𝖔𝖋 𝖙𝖍𝖊 𝖑𝖔𝖌𝖎𝖈𝖆𝖑 𝖇𝖎𝖙𝖘 𝖔𝖋 𝖈𝖚𝖗𝖎𝖔𝖘𝖎𝖙𝖞...</h1></div>
+<div align="center"><h1>𝕿𝖔 𝖙𝖍𝖊 𝖌𝖊𝖓𝖊𝖘𝖎𝖘 𝖔𝖋 𝖈𝖚𝖗𝖎𝖔𝖘𝖎𝖙𝖞...</h1></div>
 
 
 
