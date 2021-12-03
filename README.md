@@ -326,6 +326,8 @@ https://user-images.githubusercontent.com/64016811/126039018-5f464099-9aa9-4c84-
  </div>
   
  ### Hobbies:
+  
+ <details>
  <img height="120" width="500" src="https://cdn.lowgif.com/medium/2a9b46351ee742bd-image-hobbies-gif-twilight-saga-wiki-fandom-powered.gif" />
  <ul>
  <li> Acting <img height="25" width="25" src="https://thumbs.gfycat.com/CompetentMeekArabianwildcat-max-1mb.gif" > </li>
@@ -336,6 +338,7 @@ https://user-images.githubusercontent.com/64016811/126039018-5f464099-9aa9-4c84-
  <li> Making small mechanical toys and tools <img height="25" width="25" src="https://i.pinimg.com/originals/77/69/60/776960aa8d0642c0ce1506b8b13c0a0c.gif" > </li>        
  <li> Free-style dancing (although, I am not good at this \_('')_/) <img height="25" width="25" src="https://i.pinimg.com/originals/7a/55/59/7a5559e72bbf2b6d2b45d02f9f3e64f2.gif" > </li>
  </ul> 
+   </details>
 <hr>
 
 ### The Light Side 😄
@@ -343,6 +346,8 @@ https://user-images.githubusercontent.com/64016811/126039018-5f464099-9aa9-4c84-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### My Favourites:
+  
+ <details>
 <div align="center"><span><img weight="700" height="200" src="https://i.makeagif.com/media/3-16-2015/6PGP0v.gif"> <img  weight="700" height="200" src="https://shefalihunjan.files.wordpress.com/2016/12/gifit_1488167628023.gif?w=327&h=184"> </span></div>
 <ul>
  <li> My Idols (Great souls, who have moulded my life) : SWAMI VIVEKANANDA and Dr. APJ ABDUL KALAM 🙏🙏🙏.
@@ -352,7 +357,7 @@ https://user-images.githubusercontent.com/64016811/126039018-5f464099-9aa9-4c84-
  <li> Favourite Sportstar : Mahendra Singh Dhoni and Sourav Ganguly </li>
  <li> Favourite Singer : Arijit Singh </li>
  </ul>
- 
+  </details>
 <hr>
   
  <div align="center"><h2>THANK YOU FOR VISITING MY PROFILE. NOW LETS HEAD ON TO SOME REPOSITORY STUFFS :)</h2><div>
