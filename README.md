@@ -97,14 +97,14 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   </ol>
 <hr>
 
-<div align="center">
-  
 <h3>A secret about me:</h3>
 <details>
   <h2>Yes! You have seen right</h2>
   <img src="https://user-images.githubusercontent.com/64016811/144610111-95b04651-8474-4596-8bc9-b46717caa37f.png">
 </details>
-  
+
+<div align="center">
+    
 ### 📕📜📚 My Educators :
 
 <span>
