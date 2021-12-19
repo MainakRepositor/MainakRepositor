@@ -1,4 +1,5 @@
-<div align="center"> <h1> NAMASTEY WORLD <span> <img height="50" width="50" src="https://media.tenor.com/images/39b5909d8eb12e62d6b0926a39d9c4b5/tenor.gif" ><img height="50" width="50" src="https://thumbs.gfycat.com/BrownAnchoredBelugawhale-max-1mb.gif" ></span></h1></div>
+<div align="center"> ![text (1)](https://user-images.githubusercontent.com/64016811/146664875-6cf8257d-48dd-42e1-9804-180614e71fdc.gif)
+ <span> <img height="50" width="50" src="https://media.tenor.com/images/39b5909d8eb12e62d6b0926a39d9c4b5/tenor.gif" ><img height="50" width="50" src="https://thumbs.gfycat.com/BrownAnchoredBelugawhale-max-1mb.gif" ></span></h1></div>
 
 ![bg](https://user-images.githubusercontent.com/64016811/146644165-9543bc94-3b41-4458-a2b2-4d6b2d41b876.jpg)
 
