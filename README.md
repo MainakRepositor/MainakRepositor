@@ -17,7 +17,9 @@
   </tr>
 </table></div>
 
-<div align="center">
+<div class="headline" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mainak+Chaudhuri;Full+stack+web+developer;Data+Scientist;Problem+Solver;Freelancer;Open-Source+Contributor;DevOps+Enthusiast" alt="Headline" />
+</div>
  
 
 <div align="center"><h3> You can find me here : </h3>
