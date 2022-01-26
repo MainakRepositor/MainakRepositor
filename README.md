@@ -377,5 +377,10 @@ https://user-images.githubusercontent.com/64016811/126039018-5f464099-9aa9-4c84-
 
 
 ![Maintaner](https://img.shields.io/badge/maintainer-Mainak-blue)
+   
+   <div class="footer" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Thank+You!;ধন্যবাদ;शुक्रिया;谢谢你;ਤੁਹਾਡਾ ਧੰਨਵਾਦ" alt="Footer" />
+</div>
+ 
 
 :x: :x: :x: :x: :x: :x: :x: 𝐓𝐇𝐄 𝐄𝐍𝐃  :x: :x: :x: :x: :x: :x: :x: :x:
