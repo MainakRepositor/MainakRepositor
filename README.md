@@ -304,13 +304,8 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 | ML-Algorithms | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/ML-Algorithms?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/ML-Algorithms?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/ML-Algorithms?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/ML-Algorithms?style=for-the-badge) |
 | MainakFolio | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/MainakFolio?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/Data-Analysis?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/Data-Analysis?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/Data-Analysis?style=for-the-badge) |
 | MainakRepositor | ![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/MainakRepositor?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/MainakRepositor/MainakRepositor?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/MainakRepositor/MainakRepositor?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/MainakRepositor/MainakRepositor?style=for-the-badge) |
-<h2> My Contribution Graph: </h2>
-
-<a href="https://github.com/MainakRepositor/MainakRepositor"><img alt=" Mainak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MainakRepositor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 
 <br>
-
 
 ## LIGHT AND SOUND 🎬🔊
 
