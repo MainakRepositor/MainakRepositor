@@ -309,15 +309,22 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 
 ## LIGHT AND SOUND 🎬🔊
 
-
-
+  
+### Git SkyLine Contributions
+  
 https://user-images.githubusercontent.com/64016811/151687841-562cb34d-c7cf-4118-b0b6-41477883571d.mp4
+  
+### GitHub Unwrapped
+ 
+https://user-images.githubusercontent.com/64016811/209127375-a6be756d-5473-451e-84d2-4ed965a6bdc2.mp4
 
-
-
+### Previous Year Showdown  
+  
+<details>
+  
 https://user-images.githubusercontent.com/64016811/151688024-73f55b66-465f-4e14-b504-1aeb8aa8a7d9.mp4
 
-
+</details>
 
 
   
