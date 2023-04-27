@@ -25,8 +25,8 @@
 <div align="center"><h3> You can find me here : </h3>
   <table>       
     <tr>      
-      <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg"></td>
-      <td><a href="http://www.github.com/MainakRepositor" title="Github">GitHub</a></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/234900457-8f46b02c-9ca4-42a3-bab5-7bf6593afcfd.png"></td>
+      <td><a href="https://leetcode.com/mainak_ninja/" title="LeetCode">Leetcode</a></td>
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900184-f88ad750-b1a9-4471-98d8-6cdfdd0d1915.png"></td>
       <td><a href="https://www.hackerrank.com/MAINAK039">HackerRank</a></td>
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900180-9fb0f2a3-bccb-4598-8a40-e6261993c143.png"></td>
