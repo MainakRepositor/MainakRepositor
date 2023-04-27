@@ -34,7 +34,7 @@
     </tr>
     <tr>      
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900188-e92fc435-559d-489e-b429-3773de9b4352.png"></td>
-      <td><a href="https://twitter.com/leo_mainak">Twitter</a></td>
+      <td><a href="https://www.instagram.com/the_cyber_kshatriya/">Instagram</a></td>
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900195-9ce9ab12-8489-4b6c-883d-d37252f22d3f.png"></td>
       <td><a href="https://www.codechef.com/users/lucifer_khilji">Codechef</a></td>
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900174-9aa8ff7d-84d6-473e-9432-93690827d161.png"></td>
