@@ -33,7 +33,7 @@
       <td><a href="https://memerminati.blogspot.com/" title="Blogger">Blogger</a></td>
     </tr>
     <tr>      
-      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900188-e92fc435-559d-489e-b429-3773de9b4352.png"></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/234898090-fdac8532-2aff-4d3d-b04e-1cea834647cc.png"></td>
       <td><a href="https://www.instagram.com/the_cyber_kshatriya/">Instagram</a></td>
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900195-9ce9ab12-8489-4b6c-883d-d37252f22d3f.png"></td>
       <td><a href="https://www.codechef.com/users/lucifer_khilji">Codechef</a></td>
