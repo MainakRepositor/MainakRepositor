@@ -57,29 +57,29 @@
  <div align="center"><h5> These are my GitHub organizations where I have segregated dedicated project streams : </h5>
   <table>       
     <tr>      
-      <td><img height="32" width="32" src=""></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/235293304-68cbecb7-ab87-4b89-a57c-cb0a08735120.png"></td>
       <td><a href="https://github.com/FullStack-Verse">Full-Stack Verse</a></td>
       <td>100+ fully customizable full-stack web development projects.</td>
    </tr>
      <tr>
-      <td><img height="32" width="32" src=""></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/235293302-0dd1d7fb-901d-4938-8924-10c168d3d4d6.png"></td>
       <td><a href="https://github.com/My-Web-Station">My Web Station</a></td>
       <td>High-tech frontend and Jam-stack projects and web components.</td>      
     </tr>
    <tr>      
-      <td><img height="32" width="32" src=""></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/235293303-5c4145fc-9273-4e2b-8112-44e05eb78f19.png"></td>
       <td><a href="https://github.com/DataMinati">Data Minati</a></td>
       <td>Cutting edge capstone projects in Data Science and Engineering.</td>
    </tr>
      <tr>
-      <td><img height="32" width="32" src=""></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/235293371-1c263121-738c-4c8d-b2e5-937bccc38759.png"></td>
       <td><a href="https://github.com/Quantum-Vedas">Quantum Vedas</a></td>
       <td>Basic tools, technologies, projects and utilities for Quantum Computing.</td>      
     </tr>
    <tr>      
-      <td><img height="32" width="32" src=""></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/235293305-55d301c4-e057-4709-a3c9-a015d68866d9.png"></td>
       <td><a href="https://github.com/Cryptoverse">Crypto Verse</a></td>
-      <td>Mind-blowing tools and projects in cryptocurrencies and blockchain technologies.</td>
+      <td>Mind-blowing tools and projects in cryptocurrencies using Blockchain.</td>
    </tr>
     
     
