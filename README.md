@@ -78,7 +78,7 @@
     </tr>
    <tr>      
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/235293305-55d301c4-e057-4709-a3c9-a015d68866d9.png"></td>
-      <td><a href="https://github.com/Cryptoverse">Crypto Verse</a></td>
+      <td><a href="https://github.com/Cryptoverse">Crypto Verse (Coming Soon...)</a></td>
       <td>Mind-blowing tools and projects in cryptocurrencies using Blockchain.</td>
    </tr>
     
