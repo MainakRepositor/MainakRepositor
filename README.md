@@ -22,7 +22,7 @@
 </div>
  
 
-<div align="center"><h3> SHORORIPU </h3>
+<div align="center"><h3> <|-----{{ SHORORIPU }}-----|> </h3>
  <div align="center"> You can find me here apart from GitHub 😌
   <table>       
     <tr>      
@@ -54,7 +54,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/MainakRepositor.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MainakRepositor?tab=followers)
 [![Awesome Badges](https://img.shields.io/badge/coding-awesome-green.svg)](https://github.com/Naereen/badges)
 
-<div align="center"><h3> PANCHATATVA </h3>
+<div align="center"><h3> <|-----{{ PANCHATATVA }}-----|></h3>
  <div align="center">These are my GitHub organizations where I have segregated dedicated project streams : 🤡
   <table>       
     <tr>      
