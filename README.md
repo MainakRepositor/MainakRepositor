@@ -53,6 +53,27 @@
 [![GitHub followers](https://img.shields.io/github/followers/MainakRepositor.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MainakRepositor?tab=followers)
 [![Awesome Badges](https://img.shields.io/badge/coding-awesome-green.svg)](https://github.com/Naereen/badges)
 
+<div align="center"><h3> These are my GitHub organizations where I have dedicated project streams : </h3>
+  <table>       
+    <tr>      
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/234900457-8f46b02c-9ca4-42a3-bab5-7bf6593afcfd.png"></td>
+      <td><a href="https://github.com/FullStack-Verse" title="Full-Stack Verse">Full-Stack Verse</a></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900184-f88ad750-b1a9-4471-98d8-6cdfdd0d1915.png"></td>
+      <td><a href="https://www.hackerrank.com/MAINAK039">HackerRank</a></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900180-9fb0f2a3-bccb-4598-8a40-e6261993c143.png"></td>
+      <td><a href="https://memerminati.blogspot.com/" title="Blogger">Blogger</a></td>
+    </tr>
+    <tr>      
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/234898090-fdac8532-2aff-4d3d-b04e-1cea834647cc.png"></td>
+      <td><a href="https://www.instagram.com/the_cyber_kshatriya/">Instagram</a></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900195-9ce9ab12-8489-4b6c-883d-d37252f22d3f.png"></td>
+      <td><a href="https://www.codechef.com/users/lucifer_khilji">Codechef</a></td>
+      <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900174-9aa8ff7d-84d6-473e-9432-93690827d161.png"></td>
+      <td><a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin">Linkedin</a></td>
+    </tr>
+  </table>
+</div>
+
 <hr>
 <div align="center">
  <h3> 🎭👋 About Me </h3></div>
