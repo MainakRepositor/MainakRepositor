@@ -54,7 +54,7 @@
 [![Awesome Badges](https://img.shields.io/badge/coding-awesome-green.svg)](https://github.com/Naereen/badges)
 
 <div align="center"><h3> PANCHATATVA </h3>
- <div align="center"><h5> These are my GitHub organizations where I have segregated dedicated project streams : </h5>
+ <div align="center">These are my GitHub organizations where I have segregated dedicated project streams : 
   <table>       
     <tr>      
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/235293304-68cbecb7-ab87-4b89-a57c-cb0a08735120.png"></td>
