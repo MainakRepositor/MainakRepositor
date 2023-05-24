@@ -4,7 +4,6 @@
 
  
 
-
 <div align="center"><img height="80" width="400" src="https://i.pinimg.com/originals/88/81/44/8881444f23794650da1fe33c1bed39e0.gif"></div>
 
 
@@ -396,10 +395,6 @@ https://user-images.githubusercontent.com/64016811/151688024-73f55b66-465f-4e14-
   
   [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
   
-  
-## NOW I AM A 
-
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
 
 
 <hr>
