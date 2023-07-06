@@ -88,13 +88,13 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
   <li>Data Science enthusiast📊🖥</li>
   <li>Machine Learning enthusiast (with special emphasis on regressions and trees)🌳⛰️</li>
   <li>Deep Learning enthusiast (Perceptrons and their biases are my addiction)🧠🏻</li>
-  <li>Web Developer (Fullstack, comfortable with MERN,Django and LAMP stacks)🕸️</li>
+  <li>Web Developer (Fullstack, comfortable with Django and WAMP stacks, learning MERN)🕸️</li>
   <li>Computer Vision enthusiast🤖</li>
   <li>Linux Shell Scripter🐧</li>
-  <li>Ethical Hacker☠️</li>
+  <li>Blockchain Developer💰</li>
   <li>Competitive Coder (HackerRank Coding Practioner : 5✨ in Python coding; 5✨ in 30 Days of Code challenge; 2✨ in SQL; 2✨ in Statistics | Codechef 3 ⭐ Rating 1633 💻🖥💻)</li>
   <li>Streamlit Webapps developer📱</li>
-  <li>Technical Researcher📕</li>
+  <li>Quantum Computing Researcher📕</li>
   
   </ol>
 <hr>
