@@ -79,8 +79,6 @@ I am a Computer Science Engineering undergraduate student of the SRM University,
 </ul>
 <hr>
 
-### View my Github Graduation in the 2021 yearbook : [MainakRepositor](https://education.github.com/graduation/yearbook?sort=az&page=12&search=MainakRepositor#MainakRepositor)
-
 ### 🎯🎖⚙ My Skills:
 <div align="center"><span><img height="200" width="400" src="https://bestanimations.com/Science/Gears/loadinggears/loading-gears-animation-3.gif"/>    <img height="200" width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif"></span></div>
 <ol>
