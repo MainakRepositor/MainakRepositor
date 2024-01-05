@@ -348,7 +348,7 @@ https://github.com/MainakRepositor/MainakRepositor/assets/64016811/35725536-5f58
 <hr>
   
  <div align="center"><h2>THANK YOU FOR VISITING MY PROFILE. NOW LETS HEAD ON TO SOME REPOSITORY STUFFS :)</h2><div>
- <div align="center"><span><center><img width="350" height="180" src="https://thumbs.gfycat.com/DisastrousMinorDachshund-size_restricted.gif" /></center>  <img width="350" height="180"  src="https://bestanimations.com/Sci-Fi/Rockets/nasa-rocket-space-flight-animated-gif-image-2.gif"></span></div>
+ <div align="center"><span><img width="350" height="180"  src="https://bestanimations.com/Sci-Fi/Rockets/nasa-rocket-space-flight-animated-gif-image-2.gif"></span></div>
   
   [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
   
